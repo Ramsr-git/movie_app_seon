@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 function Food({ e }) {
   return <h3>I like {e}</h3>;
